@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Stepper/include/Stepper.cpp
+Stepper.h
+/home/pi/Stepper/include/Stepper.h
+
+/home/pi/Stepper/include/Stepper.h
+wiringPi.h
+-
+iostream
+-
+vector
+-
+
+/home/pi/wiringPi/wiringPi/wiringPi.h
+

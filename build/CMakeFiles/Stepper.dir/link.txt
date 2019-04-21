@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Stepper.dir/testStepper.cpp.o  -o Stepper -Wl,-rpath,/home/pi/Stepper/build -rdynamic libAll.so -lwiringPi 
